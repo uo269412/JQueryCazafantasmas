@@ -28,7 +28,7 @@ button {
 }
 /*001*/
 h2 {
-    color:#cc0002;
+    color:#000000;
     font-size: 150%;
     text-transform: uppercase;
 }
@@ -48,7 +48,7 @@ footer {
     padding: 20px;
     text-align: center;
     box-sizing: border-box;
-    background-color:#640002 ;
+    background-color:#000000 ;
 }  
 /*010*/
   .boxInfo {
@@ -59,7 +59,7 @@ footer {
 } 
 /*001*/
 img {
-    border: 10px solid #cc0002;
+    border: 10px solid #000000;
 }
 /*010*/
 .centerimage {
